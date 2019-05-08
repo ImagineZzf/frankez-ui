@@ -1,4 +1,4 @@
-import FzButton from './button/index.js.js';
+import FzButton from './button/index.js';
 
 const components = [
     FzButton
