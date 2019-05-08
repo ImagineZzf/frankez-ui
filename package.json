@@ -1,0 +1,15 @@
+{
+  "Private":false,
+  "name": "frankez-ui",
+  "version": "1.0.0",
+  "description": "UI库",
+  "main": "packages/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "FrankeZ",
+  "keywords": [
+    "frankez-ui"
+  ],
+  "license": "ISC"
+}
